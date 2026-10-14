@@ -48,7 +48,7 @@ buildNpmPackage (finalAttrs: {
 
   nodejs = nodejs_22;
 
-  npmDepsHash = "sha256-6OlgZPYqgdBG6/bB/rdpZy3N8rZCiEn+hRQIOf9OyYc=";
+  npmDepsHash = "sha256-5jxOXzpeLZ8YXNO/4ftHMpHIB/ZnBSp5b+agbpDDSec=";
   npmDepsFetcherVersion = 2;
 
   # Prevent onnxruntime-node's install script from running during automatic
